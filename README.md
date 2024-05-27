@@ -19,16 +19,9 @@ The modeling phase focuses on selecting, tuning, and evaluating machine learning
 ### 5. Deployment
 Once the model is trained and evaluated, it can be deployed for real-time classification of job postings. Users can input job description features, and the model will predict whether the job posting is fraudulent or legitimate.
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the Jupyter notebook `fraudulent_job_prediction.ipynb` to see the step-by-step process of building and evaluating the model.
-4. Use the trained model to predict fraudulent job postings by providing relevant job description features.
-
 ## Future Work
 
-One potential future enhancement is to create an application where users can upload job descriptions and receive a classification of whether the job posting is fraudulent or not, along with a probability score. Additionally, further improvements can be made by exploring feature selection techniques and developing an app for users to classify job descriptions using the machine learning model.
+One potential future enhancement is creating an application where users can upload job descriptions and receive a classification of whether the job posting is fraudulent, along with a probability score. Additionally, further improvements can be made by exploring feature selection techniques and developing an app for users to classify job descriptions using the machine learning model.
 
 Feel free to explore the code, provide feedback, and contribute to further improving the fraudulent job posting prediction model.
 
